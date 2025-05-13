@@ -1,0 +1,10 @@
+article section article {
+    background-color: lightgray;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    }
+
+article section article p {
+    line-height: 150%;
+}

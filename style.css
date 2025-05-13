@@ -1,0 +1,51 @@
+header, footer {
+    border: 2px solid #0814ee;
+    background-color: rgb(23, 228, 228);
+}
+main {
+    background-color: beige;
+}
+
+body {
+    font-family: Helvetica;
+}
+
+#italic {
+    font-style: italic;
+}
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: darkgreen;
+}
+
+h3 {
+  color: maroon;
+}
+
+h4 {
+  color: teal;
+}
+
+h5 {
+  color: purple;
+}
+
+h6 {
+  color: brown;
+}
+
+nav a {
+  color: black; /* default color */
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: red; /* color when hovered */
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
